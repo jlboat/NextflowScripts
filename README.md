@@ -1,0 +1,3 @@
+# NextflowScripts
+
+Various scripts used for quick Nextflow runs -- may parameterize them later...
